@@ -46,10 +46,6 @@ Property managers often rely on static pricing or simple rules (e.g., +20% on we
    streamlit run app.py
    ```
 
-## 🖥️ DashBoard Preview
-   <video src="
-https://github.com/user-attachments/assets/81a4a6c0-54e3-4106-9ee8-024d96733133
-" width="100%"></video>
 
 
 ## 🧠 Methodology & Analytics Approach
