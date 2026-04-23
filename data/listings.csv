@@ -1,0 +1,51 @@
+property_id,name,neighborhood,bedrooms,base_price,rating
+PROP_001,1BR Cozy Stay in Beachfront,Beachfront,1,242,4.67
+PROP_002,2BR Cozy Stay in Arts District,Arts District,2,192,3.65
+PROP_003,1BR Cozy Stay in Suburbs,Suburbs,1,83,3.71
+PROP_004,1BR Cozy Stay in Suburbs,Suburbs,1,81,4.58
+PROP_005,4BR Cozy Stay in Uptown,Uptown,4,143,4.43
+PROP_006,1BR Cozy Stay in Uptown,Uptown,1,101,3.53
+PROP_007,1BR Cozy Stay in Suburbs,Suburbs,1,118,3.57
+PROP_008,1BR Cozy Stay in Beachfront,Beachfront,1,357,3.64
+PROP_009,2BR Cozy Stay in Suburbs,Suburbs,2,103,4.39
+PROP_010,2BR Cozy Stay in Suburbs,Suburbs,2,96,3.76
+PROP_011,3BR Cozy Stay in Uptown,Uptown,3,83,4.34
+PROP_012,1BR Cozy Stay in Uptown,Uptown,1,88,3.85
+PROP_013,2BR Cozy Stay in Beachfront,Beachfront,2,260,4.41
+PROP_014,1BR Cozy Stay in Suburbs,Suburbs,1,73,3.77
+PROP_015,2BR Cozy Stay in Beachfront,Beachfront,2,151,3.81
+PROP_016,1BR Cozy Stay in Beachfront,Beachfront,1,203,4.76
+PROP_017,1BR Cozy Stay in Beachfront,Beachfront,1,311,4.89
+PROP_018,4BR Cozy Stay in Beachfront,Beachfront,4,398,4.77
+PROP_019,2BR Cozy Stay in Arts District,Arts District,2,171,4.38
+PROP_020,1BR Cozy Stay in Downtown,Downtown,1,223,3.94
+PROP_021,1BR Cozy Stay in Arts District,Arts District,1,154,4.14
+PROP_022,1BR Cozy Stay in Downtown,Downtown,1,235,4.72
+PROP_023,2BR Cozy Stay in Downtown,Downtown,2,235,4.66
+PROP_024,1BR Cozy Stay in Arts District,Arts District,1,195,3.67
+PROP_025,2BR Cozy Stay in Downtown,Downtown,2,171,3.64
+PROP_026,2BR Cozy Stay in Arts District,Arts District,2,188,3.91
+PROP_027,1BR Cozy Stay in Suburbs,Suburbs,1,60,4.96
+PROP_028,2BR Cozy Stay in Suburbs,Suburbs,2,60,3.85
+PROP_029,2BR Cozy Stay in Suburbs,Suburbs,2,68,3.67
+PROP_030,1BR Cozy Stay in Beachfront,Beachfront,1,354,4.84
+PROP_031,2BR Cozy Stay in Downtown,Downtown,2,151,4.54
+PROP_032,2BR Cozy Stay in Arts District,Arts District,2,112,4.31
+PROP_033,3BR Cozy Stay in Arts District,Arts District,3,125,4.4
+PROP_034,3BR Cozy Stay in Suburbs,Suburbs,3,81,4.44
+PROP_035,2BR Cozy Stay in Downtown,Downtown,2,233,3.83
+PROP_036,3BR Cozy Stay in Beachfront,Beachfront,3,179,3.99
+PROP_037,1BR Cozy Stay in Beachfront,Beachfront,1,366,3.67
+PROP_038,2BR Cozy Stay in Downtown,Downtown,2,126,4.73
+PROP_039,1BR Cozy Stay in Downtown,Downtown,1,102,4.27
+PROP_040,1BR Cozy Stay in Downtown,Downtown,1,161,3.68
+PROP_041,3BR Cozy Stay in Beachfront,Beachfront,3,301,3.98
+PROP_042,1BR Cozy Stay in Downtown,Downtown,1,212,3.88
+PROP_043,2BR Cozy Stay in Beachfront,Beachfront,2,188,3.95
+PROP_044,1BR Cozy Stay in Downtown,Downtown,1,180,4.96
+PROP_045,1BR Cozy Stay in Beachfront,Beachfront,1,203,4.02
+PROP_046,2BR Cozy Stay in Downtown,Downtown,2,246,4.3
+PROP_047,2BR Cozy Stay in Uptown,Uptown,2,111,4.39
+PROP_048,1BR Cozy Stay in Suburbs,Suburbs,1,115,4.59
+PROP_049,2BR Cozy Stay in Arts District,Arts District,2,187,4.3
+PROP_050,2BR Cozy Stay in Downtown,Downtown,2,223,4.54
