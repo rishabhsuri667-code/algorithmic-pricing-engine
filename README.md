@@ -46,6 +46,12 @@ Property managers often rely on static pricing or simple rules (e.g., +20% on we
    streamlit run app.py
    ```
 
+## 🖥️ DashBoard Preview
+   <video src="
+https://github.com/user-attachments/assets/81a4a6c0-54e3-4106-9ee8-024d96733133
+" width="100%"></video>
+
+
 ## 🧠 Methodology & Analytics Approach
 1. **Feature Engineering**: Encoded categorical variables (neighborhood, weather) and boolean flags (is_weekend, is_holiday) to capture the market context.
 2. **Probability Calibration**: The Random Forest outputs probability scores (`predict_proba`). We test a range of prices (from 40% to 280% of the base price) through the model to map out the entire Demand Curve.
