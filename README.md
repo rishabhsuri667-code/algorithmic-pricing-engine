@@ -25,7 +25,7 @@ Property managers often rely on static pricing or simple rules (e.g., +20% on we
 
 1. **Clone the repository:**
    ```bash
-   git clone <your-github-repo-link>
+   git clone <[your-github-repo-link](https://github.com/rishabhsuri667-code/algorithmic-pricing-engine.git)>
    cd algorithmic_pricing_engine
    ```
 
